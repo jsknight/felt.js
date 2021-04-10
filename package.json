@@ -1,0 +1,24 @@
+{
+  "name": "felt.js",
+  "version": "1.0.1",
+  "description": "Minimal canvas editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsknight/felt.js.git"
+  },
+  "keywords": [
+    "HTML",
+    "Canvas",
+    "JS"
+  ],
+  "author": "Jon Knight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsknight/felt.js/issues"
+  },
+  "homepage": "https://github.com/jsknight/felt.js#readme"
+}
