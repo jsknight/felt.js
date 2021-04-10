@@ -1,6 +1,6 @@
 {
   "name": "felt.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Minimal canvas editor.",
   "main": "index.js",
   "scripts": {
